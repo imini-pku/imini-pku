@@ -29,7 +29,7 @@ I work on lunar seismology, scientific data analysis and evaluation workflows. M
 
 - **Research & analysis:** Python、MATLAB，时序处理、特征提取、模型比较、质量检查与可视化。
 - **Analytics practice:** SQL / DuckDB，指标口径、会话与漏斗分析、固定时间切分的推荐评估。
-- **AI-assisted workflow:** 使用 ChatGPT / Codex 辅助任务拆解、实现与调试，结合测试、数据检查和人工复核解释产出。
+- **Workflow:** 明确分析问题与数据口径，结合测试、数据检查和结果复核，形成可复现的代码、图表与报告。
 - **Reproducibility:** 保留输入、配置、方法、结果与项目状态；大文件在对应仓库的 Releases 中提供。
 
-项目中保留真实完成状态。模拟实验、AI辅助实现、候选评测包及未合并贡献均在对应仓库说明。
+各项目的分析方法、完成状态、结果及复现步骤详见对应仓库。
