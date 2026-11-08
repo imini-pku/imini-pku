@@ -4,7 +4,7 @@
 
 **Geophysics PhD student at Peking University · Scientific data analysis & evaluation**
 
-我关注如何把复杂研究问题转化为可检查的数据流程：明确问题与指标，处理时序数据，设计对照与评测，并用代码、图表和报告解释结果。目前在地球物理科研之外，开展 SQL、电商行为分析与推荐评估实践。
+我关注如何把复杂研究问题转化为可检查的数据流程：明确问题与指标，处理时序数据，设计对照与评测，并用代码、图表和报告解释结果。研究与项目覆盖地球物理、SQL、电商行为分析与推荐评估。
 
 I work on lunar seismology, scientific data analysis and evaluation workflows. My projects connect reproducible research with practical analytics, with clear distinctions between observed data, offline evaluation and simulation.
 
@@ -28,7 +28,7 @@ I work on lunar seismology, scientific data analysis and evaluation workflows. M
 ## How I work
 
 - **Research & analysis:** Python、MATLAB，时序处理、特征提取、模型比较、质量检查与可视化。
-- **Analytics practice:** SQL / DuckDB，指标口径、会话与漏斗分析、固定时间切分的推荐评估。
+- **Data analytics:** SQL / DuckDB，指标口径、会话与漏斗分析、固定时间切分的推荐评估。
 - **Workflow:** 明确分析问题与数据口径，结合测试、数据检查和结果复核，形成可复现的代码、图表与报告。
 - **Reproducibility:** 保留输入、配置、方法、结果与项目状态；大文件在对应仓库的 Releases 中提供。
 
