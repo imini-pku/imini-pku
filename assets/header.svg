@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="244" viewBox="0 0 1200 244" role="img" aria-labelledby="title desc">
+  <title id="title">Tianxiong Wu — Research, data and evaluation</title>
+  <desc id="desc">A personal portfolio of scientific research, data analysis, evaluation and interactive work.</desc>
+  <rect width="1200" height="244" rx="16" fill="#142d43"/>
+  <path d="M790 0v244M870 0v244M950 0v244M1030 0v244M1110 0v244M740 42h460M740 102h460M740 162h460M740 222h460" fill="none" stroke="#25445b" stroke-width="1"/>
+  <path d="M747 152L783 152L796 147L807 160L820 120L834 190L849 66L863 202L877 107L890 175L904 125L918 167L932 140L948 157L966 147L986 154L1008 150L1030 152L1164 152" fill="none" stroke="#6dc9bd" stroke-width="2.5"/>
+  <circle cx="849" cy="66" r="5" fill="#d5b576"/>
+  <text x="48" y="54" fill="#a5b9c9" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">RESEARCH / DATA / EVALUATION</text>
+  <text x="46" y="116" fill="#f5f7f9" font-family="Arial, sans-serif" font-weight="700" font-size="47">TIANXIONG WU</text>
+  <text x="48" y="153" fill="#d5e1e9" font-family="Arial, sans-serif" font-size="19">From scientific questions to reproducible results.</text>
+  <text x="48" y="208" fill="#85c7c0" font-family="Arial, sans-serif" font-size="14">Peking University</text>
+  <text x="208" y="208" fill="#a5b9c9" font-family="Arial, sans-serif" font-size="14">Geophysics PhD student</text>
+</svg>
